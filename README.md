@@ -18,6 +18,7 @@ Para corer la aplicacion:
 
 npm start
 
-#Base de datos
+Base de datos
+
 Para la base de datos se uso SQLite3 y se modelo con workbench, para exportar el modelo a un SCRIPT de SQLite usar el plugin:
 https://github.com/tatsushid/mysql-wb-exportsqlite
