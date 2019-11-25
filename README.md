@@ -12,6 +12,12 @@ npm install
 Para usar dependecinas "nativas" de node
 npm postinstall
 
+Si tiene problemas instale primero el build-essential
+```bash
+sudo apt-get update
+sudo apt-get install build-essential
+```
+
 Mas sobre dependencias nativas:  https://electronjs.org/docs/tutorial/using-native-node-modules
 
 Para corer la aplicacion:
